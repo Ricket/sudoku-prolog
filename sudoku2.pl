@@ -1,3 +1,5 @@
+% https://www.swi-prolog.org/pldoc/man?section=clpfd
+
 :- use_module(library(clpfd)).
 
 sudoku(Rows) :-
